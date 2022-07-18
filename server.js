@@ -17,6 +17,8 @@ console.log(absolutePath);
   await browser.close();
 })();
 
+console.log("==========pdf generated successfully==========");
+
 const hostname = '127.0.0.1';
 const port = 3000;
 
